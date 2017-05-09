@@ -29,7 +29,7 @@ allprojects {
 Step 2. Add the dependency
 ```java
 dependencies {
-    compile 'com.github.mukeshsolanki:MarkdownView-Android:1.0.4'
+    compile 'com.github.ablack13:MarkdownView-Android:1.0.5'
 }
 ```
 
